@@ -1,0 +1,15 @@
+/home/steve/Desktop/Developer Steve/Courses/DotNet/Course Practice/hello-world/bin/Debug/net6.0/hello-world
+/home/steve/Desktop/Developer Steve/Courses/DotNet/Course Practice/hello-world/bin/Debug/net6.0/hello-world.deps.json
+/home/steve/Desktop/Developer Steve/Courses/DotNet/Course Practice/hello-world/bin/Debug/net6.0/hello-world.runtimeconfig.json
+/home/steve/Desktop/Developer Steve/Courses/DotNet/Course Practice/hello-world/bin/Debug/net6.0/hello-world.dll
+/home/steve/Desktop/Developer Steve/Courses/DotNet/Course Practice/hello-world/bin/Debug/net6.0/ref/hello-world.dll
+/home/steve/Desktop/Developer Steve/Courses/DotNet/Course Practice/hello-world/bin/Debug/net6.0/hello-world.pdb
+/home/steve/Desktop/Developer Steve/Courses/DotNet/Course Practice/hello-world/obj/Debug/net6.0/hello-world.csproj.AssemblyReference.cache
+/home/steve/Desktop/Developer Steve/Courses/DotNet/Course Practice/hello-world/obj/Debug/net6.0/hello-world.GeneratedMSBuildEditorConfig.editorconfig
+/home/steve/Desktop/Developer Steve/Courses/DotNet/Course Practice/hello-world/obj/Debug/net6.0/hello-world.AssemblyInfoInputs.cache
+/home/steve/Desktop/Developer Steve/Courses/DotNet/Course Practice/hello-world/obj/Debug/net6.0/hello-world.AssemblyInfo.cs
+/home/steve/Desktop/Developer Steve/Courses/DotNet/Course Practice/hello-world/obj/Debug/net6.0/hello-world.csproj.CoreCompileInputs.cache
+/home/steve/Desktop/Developer Steve/Courses/DotNet/Course Practice/hello-world/obj/Debug/net6.0/hello-world.dll
+/home/steve/Desktop/Developer Steve/Courses/DotNet/Course Practice/hello-world/obj/Debug/net6.0/ref/hello-world.dll
+/home/steve/Desktop/Developer Steve/Courses/DotNet/Course Practice/hello-world/obj/Debug/net6.0/hello-world.pdb
+/home/steve/Desktop/Developer Steve/Courses/DotNet/Course Practice/hello-world/obj/Debug/net6.0/hello-world.genruntimeconfig.cache
